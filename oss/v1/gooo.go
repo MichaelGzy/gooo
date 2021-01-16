@@ -2,7 +2,7 @@ package oss
 
 import (
 	"fmt"
-	"github.com/MichaelGzy/gooo/srv"
+	"github.com/MichaelGzy/gooo/srv/v1"
 )
 
 func SayHi() {
